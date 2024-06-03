@@ -1,0 +1,13 @@
+.tmp
+.DS_STORE
+.vscode
+dist
+node_modules
+npm-debug.log
+public_dist
+docs
+.gradle
+.idea
+yarn-error.log
+package-lock.json
+yarn.lock
